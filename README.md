@@ -1,2 +1,3 @@
 # hello-world
-new repo
+
+I would like to write code that revolutionizes the world.
